@@ -1,4 +1,4 @@
-
+构建阶段:
 父组件 beforeCreate 钩子
 父组件 created 钩子
 父组件 beforeMount 钩子
